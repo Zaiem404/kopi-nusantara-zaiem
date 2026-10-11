@@ -1,8 +1,10 @@
 # Kopi Nusantara
+
 Halaman web statis toko biji kopi. dibuat pada modul kerja 1.
 pelatihan junior web developer, UPTD BLK provinsi Gorontalo, Batch #5.
 
 ## Struktur Folder
+
 - `index.html` : halaman utama
 - `css/style.css` : Gaya Tampilan
 - `img/` : Gambar dan logo
