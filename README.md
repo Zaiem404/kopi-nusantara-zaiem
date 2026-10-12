@@ -8,6 +8,7 @@ pelatihan junior web developer, UPTD BLK provinsi Gorontalo, Batch #5.
 - `index.html` : halaman utama
 - `css/style.css` : Gaya Tampilan
 - `img/` : Gambar dan logo
+- `js/` : javascript
 
 ## cara menjalankan
 
