@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Latihan DOM</title>
+    <style>
+      .aktif {
+        color: rgb(103, 231, 11);
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="judul">Latihan DOM</h1>
+    <p id="pesan">Belum ada aksi.</p>
+
+    <input type="text" id="nama" placeholder="Ketik nama Anda" />
+    <button id="tombol">Sapa</button>
+    <button id="reset">reset semua</button>
+
+    <p id="jumlah">Jumlah Karakter :0</p>
+
+    <h2>Daftar Kopi</h2>
+    <ul id="daftar"></ul>
+
+    <h2>daftar kopi robusta</h2>
+    <ul id="kopiRobusta"></ul>
+
+    <footer>
+      <p>
+        &copy; <span id="tahun"></span> - Kopi Nusantara | Hak Cipta dilindungi
+        Undang-undang
+      </p>
+    </footer>
+  </body>
+  <script src="data.js"></script>
+  <script src="dom.js"></script>
+</html>
